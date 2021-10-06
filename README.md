@@ -10,3 +10,4 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 RDH's partner data validation for VEST's 2020 CO file. 
 VEST's raw file is available  [here](https://dataverse.harvard.edu/file.xhtml?fileId=4750437&version=17.0)
+view the final report [here]
