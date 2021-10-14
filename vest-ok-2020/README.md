@@ -1,4 +1,4 @@
-# vest-nv-2020
+# vest-ok-2020
 
 Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2020-nevada-precinct-boundaries-and-election-results-shapefile/).
 
