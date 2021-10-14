@@ -8,20 +8,21 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## Raw from source:
 
-- File: VEST NV 2020 file
-   - Date accessed: 10/11/21
-   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4863168&version=21.0
-   - File: `nv_2020.zip`
+- File: VEST OK 2020 file
+   - Date accessed: 10/4/21
+   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4750437&version=17.0
+   - File: `ok_2020.zip`
 - File: VEST documentation file, 2020
-   - Date accessed: 10/11/21
-   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=5194701&version=47.0
+   - Date accessed: 10/4/21
+   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=5206372&version=21.0
    - File: `documentation.txt`
 - File: Election Results, SOS 2020
    - Date accessed: 10/11/21
-   - Link: https://www.nvsos.gov/sos/elections/election-information/precinct-level-results
+   - Link: https://results.okelections.us/OKER/?elecDate=20201103
    - File: `20201103_PrecinctResults.csv` (available upon request)
-   - Note: selected "Results by Precinct (XLSX)" under "Court of Appeals"
-
+- File: Precinct Boundaries
+   - Date accessed: 10/4/21
+   - Link: https://csagis-uok.opendata.arcgis.com/datasets/c83b09af406d48f7bbca30942fe186a8_0/explore?location=35.317799%2C-98.716567%2C8.77
 ## File processing:
 
-`vest-nv-2020.ipynb` is the script that is the basis of the validation report
+`vest-ok-2020-validation.ipynb` is the script that is the basis of the validation report
