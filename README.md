@@ -16,7 +16,7 @@ View the final report [here](https://redistrictingdatahub.org/dataset/vest-2020-
 ## vest-ok-2018
 
 RDH's partner data validation for VEST's 2018 OK file. 
-VEST's raw file is available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UBKYRU).
+VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/8VRHDF&version=47.0).
 
 View the final report [here](https://redistrictingdatahub.org/dataset/vest-2018-oklahoma-precinct-and-election-results/).
 
